@@ -24,7 +24,7 @@ WhatsApp (User) → Twilio WhatsApp Webhook → n8n Workflow → AI Agent (Groq 
 - n8n – Workflow orchestration & automation
 - Twilio WhatsApp Sandbox – Messaging channel
 - Groq LLM – AI reasoning & response generation
-- Airtable - Database
+- Airtable – Used as a database tool for storing orders, tickets, and agent-generated records
 - Docker – Local self-hosted setup
 - ngrok – Public webhook tunneling (local development)
 
@@ -37,6 +37,7 @@ The AI agent can:
 - Track order status using order ID
 - Collect user details and raise support tickets
 - Respond conversationally like a real support agent
+- Stores and retrieves structured data using Airtable as an agent tool
 
 ---
 

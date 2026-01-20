@@ -5,6 +5,14 @@ The system can answer FAQs, track orders, and raise support tickets automaticall
 
 ---
 
+## 📸 Screenshots
+
+### 🔹 Archetecture Flow
+![Flow](Screenshots/n8n.png)
+
+### 🔹 Chat Screenshots
+![Whatspp Screenshot](Screenshots/whatsapp_ss1.jpg)
+
 ## 🚀 Features
 - WhatsApp-based customer interaction (via Twilio)
 - AI Agent for natural language understanding

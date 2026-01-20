@@ -13,7 +13,7 @@ The system can answer FAQs, track orders, and raise support tickets automaticall
 ### WhatsApp Conversation
 <img src="Screenshots/whatsapp_ss1.jpg" alt="WhatsApp Chat Demo" width="250"/>
 
-![Whatspp Screenshot](Screenshots/Ticket_creation.jpg)
+![Whatspp Screenshot](Screenshots/Ticket_creation1.jpg)
 
 ## 🚀 Features
 - WhatsApp-based customer interaction (via Twilio)
